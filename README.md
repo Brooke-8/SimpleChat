@@ -27,3 +27,5 @@ The client supports the following commands:
 - #sethost: Sets host name.
 - #getport: returns port number.
 - #gethost: returns host name.
+
+Dependancy: Requires the Object Client-Server Framework (OCSF)
